@@ -161,17 +161,17 @@ The figure below demonstrates the closed-loop reference tracking capability of t
 ## Repository Structure
 
 ```text
-closed-loop-buck-converter
+Closed-Loop-Buck-Converter-PI-Control
 │
 ├── README.md
 ├── Project_Report.pdf
 │
 ├── Simulink_Models
-│   ├── Open_Loop_Buck_Converter.slx
-│   └── Closed_Loop_Buck_Converter.slx
+│   ├── Closed_Loop_Buck.slx
+│   └── Open_Loop_Buck.slx
 │
 └── LTspice_Model
-    └── Buck_Converter.asc
+    └── Open_Loop_Buck.asc
 ```
 
 ---
